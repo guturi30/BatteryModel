@@ -1,6 +1,6 @@
 Hello All,
 
-This folder contains all the files needed to run the backward looking model for a pure Electric Vehicle. Here are the following recommendations to run the files:
+This folder contains all the files needed to run the Battery simulation model. Here are the following recommendations to run the files:
 
 1. The model has been built using Matlab 2016b software. Please use 2016b or higher versions of matlab
 
